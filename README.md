@@ -6,7 +6,5 @@
 
 ### What are its Advantages?
 
-
-
- ### Resources for OctoPerf
+### Resources for OctoPerf
 
