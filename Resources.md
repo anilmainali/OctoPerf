@@ -2,6 +2,10 @@
 
 ### OctoPerf official URL : https://octoperf.com/
 
+### Plans and Pricing : https://octoperf.com/pricing/
+
+### OctoPerf Load Testing Blog : https://octoperf.com/blog/
+
 ### OctoPerf Load Testing Tool Overview
 
 https://www.youtube.com/watch?v=fz9E_euuxQU&list=PLpSi3AVZHI5rJHGiVh2W90k28KqERDNNV
