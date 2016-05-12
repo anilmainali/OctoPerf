@@ -4,7 +4,7 @@
 
 ### Plans and Pricing : https://octoperf.com/pricing/
 
-### OctoPerf Load Testing Blog : https://octoperf.com/blog/
+### OctoPerf Load Testing Blog - News about load testing and technical choices :  https://octoperf.com/blog/
 
 ### OctoPerf Load Testing Tool Overview
 
