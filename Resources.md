@@ -4,6 +4,8 @@
 
 ### Free Account: https://app.octoperf.com/#/access/signup
 
+### You can find the Documentation by clicking this link : https://doc.octoperf.com/
+
 ### Plans and Pricing : https://octoperf.com/pricing/
 
 ### OctoPerf Load Testing Blog - News about load testing and technical choices :  https://octoperf.com/blog/
@@ -11,6 +13,8 @@
 ### Twitter : https://twitter.com/octoperf
 
 ### YouTube : https://www.youtube.com/channel/UCUNI9ICs-AbGDA3V1shXTuw/
+
+### LinkedIn : https://www.linkedin.com/company/octoperf
 
 ### 
 
