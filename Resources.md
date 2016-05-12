@@ -10,6 +10,10 @@
 
 ### Twitter : https://twitter.com/octoperf
 
+### YouTube : https://www.youtube.com/channel/UCUNI9ICs-AbGDA3V1shXTuw/
+
+### 
+
 ### GitHub : https://github.com/OctoPerf
 
 ### OctoPerf Load Testing Tool Overview
