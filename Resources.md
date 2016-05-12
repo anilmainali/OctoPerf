@@ -8,6 +8,10 @@
 
 ### OctoPerf Load Testing Blog - News about load testing and technical choices :  https://octoperf.com/blog/
 
+### Twitter : https://twitter.com/octoperf
+
+### GitHub : https://github.com/OctoPerf
+
 ### OctoPerf Load Testing Tool Overview
 
 https://www.youtube.com/watch?v=fz9E_euuxQU&list=PLpSi3AVZHI5rJHGiVh2W90k28KqERDNNV
