@@ -2,6 +2,8 @@
 
 ### OctoPerf official URL : https://octoperf.com/
 
+### Free Account: https://app.octoperf.com/#/access/signup
+
 ### Plans and Pricing : https://octoperf.com/pricing/
 
 ### OctoPerf Load Testing Blog - News about load testing and technical choices :  https://octoperf.com/blog/
