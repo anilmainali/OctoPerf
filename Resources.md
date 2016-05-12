@@ -4,7 +4,9 @@
 
 https://www.youtube.com/watch?v=fz9E_euuxQU&list=PLpSi3AVZHI5rJHGiVh2W90k28KqERDNNV
 
+### 1 minute demo of OctoPerf
 
+https://www.youtube.com/watch?v=49WFIXDktbk&list=PLpSi3AVZHI5o1BvKzK4LftcKIpo4WJejh
 
 ### Guided tour : Project View
 
