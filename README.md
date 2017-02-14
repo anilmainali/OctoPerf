@@ -67,7 +67,7 @@ Watch these You Tube videos and learn more about OctoPerf
  
 ### PerfBytes podcast:
 
-<a target="_blank" href=" https://player.fm/series/perfbytes/octoperf-deep-dive">  Octoperf Deep Dive </a>
+<a target="_blank" href=" http://www.perfbytes.com/octoperf-deep-dive">  Octoperf Deep Dive </a>
 
  
 
