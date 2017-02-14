@@ -12,8 +12,6 @@ To get sarted,
 
 ### What are its Advantages?
 
-### Resorces
-
 Let us scratch the surface of OctoPerf tool with these few good resources that I have compiled.This will help you to get started.
 
 # Resources
