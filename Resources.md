@@ -2,8 +2,8 @@
 
 ### OctoPerf Official Home Page.
 
-Getting stared with OctoPerf, do not fear! Let us dive in togetether.Here is the 
-<a target="_blank" href="https://octoperf.com/"> OctoPerf </a> official Home Page.
+Getting stared with OctoPerf, do not fear! Let us dive in togetether.Here is the OctoPerf
+<a target="_blank" href="https://octoperf.com/"> official Home Page </a>
 
 ### Free Account
 
