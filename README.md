@@ -64,6 +64,14 @@ Watch these You Tube videos and learn more about OctoPerf
  <a target="_blank" href="https://www.youtube.com/watch?v=49WFIXDktbk&list=PLpSi3AVZHI5o1BvKzK4LftcKIpo4WJejh"> 1 minute demo of OctoPerf</a>
  
  <a target="_blank" href="https://www.youtube.com/watch?v=Qfex3-d2eFQ&list=PLpSi3AVZHI5ojqRqJFPq7oOrJfVmGoJJC"> Guided tour : Project View</a>
+ 
+### PerfBytes podcast:
+
+<a target="_blank" href=" https://player.fm/series/perfbytes/octoperf-deep-dive">  Octoperf Deep Dive </a>
+
+ 
+
+ 
 
 
 
