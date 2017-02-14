@@ -9,10 +9,10 @@ To get sarted,
 ### What is Octoperf?
 TODO:
 
-### History os OctoPerf
+### History of OctoPerf
 TODO:
 
-### How it works
+### How it works?
 
 ### Why use OctoPerf load testing tool?
 TODO:
