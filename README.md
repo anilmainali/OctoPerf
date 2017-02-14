@@ -7,10 +7,15 @@ The main purpose of creating this Repo is to jot down few notes for my everyday 
 To get sarted,
 
 ### What is Octoperf?
+TODO:
 
 ### History os OctoPerf
+TODO:
 
-### What are its Advantages?
+### How it works
+
+### Why use OctoPerf load testing tool?
+TODO:
 
 Let us scratch the surface of OctoPerf tool with these few good resources that I have compiled.This will help you to get started.
 
