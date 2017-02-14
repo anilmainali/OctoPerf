@@ -4,7 +4,7 @@
 
 Getting stared with OctoPerf, do not fear! Let us dive in togetether.Here is the 
 
-<a target="_blank" href=" https://octoperf.com/"> OctoPerf official Home Page</a>
+<a target="_blank" href="https://octoperf.com/"> OctoPerf official Home Page</a>
 
 ### Free Account: https://app.octoperf.com/#/access/signup
 
