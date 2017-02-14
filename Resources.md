@@ -23,7 +23,7 @@ Check out the <a target="_blank" href="https://octoperf.com/blog/"> OctoPerf Loa
 
 ### Follow OctoPerf on Twitter 
 
-You can follow 
+You can follow OctoPerf on <a target="_blank" href="https://twitter.com/octoperf"> Twitter </a>
 
 ### YouTube 
 
@@ -32,20 +32,21 @@ You can Subscribe OctoPerf <a target="_blank" href="https://www.youtube.com/chan
 
 ### LinkedIn 
 
-Follow OctoPerf on their company <a target="_blank" href="https://www.linkedin.com/company/octoperf"> LinkedIn Page </a> and connect with the great founder and co- founders and learn more about the company insights and read the latest posts.
+Follow OctoPerf on their company <a target="_blank" href="https://www.linkedin.com/company/octoperf"> LinkedIn Page </a> and connect with the great Founder & CTO - Gérald Pereira like Guillaume Betaillouloux, Quentin HAMARD and learn more about the company insights and read the latest posts.
 
-### 
+### GitHub 
 
-### GitHub : https://github.com/OctoPerf
+You can access their <a target="_blank" href="https://github.com/OctoPerf"> GitHub Account </a>  but as of today the repo is not open to public members. You must be a member to see who’s a part of this organization. 
 
-### OctoPerf Load Testing Tool Overview
+### Watch You Tube Videos 
 
-https://www.youtube.com/watch?v=fz9E_euuxQU&list=PLpSi3AVZHI5rJHGiVh2W90k28KqERDNNV
+Watch these You Tube videos and learn more about OctoPerf
 
-### 1 minute demo of OctoPerf
+ <a target="_blank" href="https://www.youtube.com/watch?v=fz9E_euuxQU&list=PLpSi3AVZHI5rJHGiVh2W90k28KqERDNNV"> OctoPerf Load Testing Tool Overview </a>
 
-https://www.youtube.com/watch?v=49WFIXDktbk&list=PLpSi3AVZHI5o1BvKzK4LftcKIpo4WJejh
 
-### Guided tour : Project View
+ <a target="_blank" href="https://www.youtube.com/watch?v=49WFIXDktbk&list=PLpSi3AVZHI5o1BvKzK4LftcKIpo4WJejh"> 1 minute demo of OctoPerf</a>
+ 
+ <a target="_blank" href="https://www.youtube.com/watch?v=Qfex3-d2eFQ&list=PLpSi3AVZHI5ojqRqJFPq7oOrJfVmGoJJC"> Guided tour : Project View</a>
 
-https://www.youtube.com/watch?v=Qfex3-d2eFQ&list=PLpSi3AVZHI5ojqRqJFPq7oOrJfVmGoJJC
+
