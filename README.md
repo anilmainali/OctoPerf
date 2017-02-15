@@ -7,7 +7,18 @@ The main purpose of creating this Repo is to jot down few notes for my everyday 
 To get sarted,
 
 ### What is Octoperf?
-TODO:
+OctoPerf is a commercial Saas [Software As A Service] cloud load testing platform.It is a Hassle free load testing tool which allows to simulate thousands of concurrent users on any HTTP-based website or mobile application. 
+
+### What you can do with Octoperf?
+
+You can do the following things with OctoPerf:
+Easily Design, Monitor, Execute and Analyze performance tests through your Web Browser.
+
+1. Record your scenarios.
+2. Design realistic Virtual User.
+3. Run scenarios from multiple locations (All over the world).
+4. Monitor your servers.
+5. Analyze bench mark reports to find performance bottlenecks.
 
 ### History of OctoPerf
 TODO:
