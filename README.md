@@ -55,9 +55,8 @@ You can watch this video series to learn how to use OctoPerf.
 
 <a target="_blank" href="https://www.youtube.com/playlist?list=PLpSi3AVZHI5pgRXwbOrrAzUyfpoSw_Tv2"> OctoPerf Tutorials Play List</a>
 
-Let us scratch the surface of OctoPerf tool with these few good resources that I have compiled.This will help you to get started.
-
 # Resources
+Let us scratch the surface of OctoPerf tool with these few good resources that I have compiled.This will help you to get started.
 
 ### OctoPerf Official Home Page.
 
