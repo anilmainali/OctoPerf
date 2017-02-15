@@ -32,7 +32,16 @@ OctoPerf was created in summer of 2015. It was originally called jellly.io
 For meore Information about OctoPerf History and where it is heading now, Please read the Blog <a target="_blank" href="https://octoperf.com/blog/2017/01/31/highlights-of-2016/"> AN AMAZING YEAR </a> by the co-founder Guillaume Betaillouloux. 
 
 ### Why use OctoPerf load testing tool?
-TODO:
+1. Easy to use: Are you nervous about coding? No worries OctoPerf got you covered on this, no coding knowledge required, a modern and intuitive web UI.
+2. Realistic: You can simulate virtual users behaving close to customers in production.
+3. Cost Effective: It provides 80% of expensive tools features at a fraction of their price.
+4. Complete: It covers end to end load testing process from recording,design and monitoring to test analysis.
+5. Robust: It leverages proven open-source technologies like JMeter.
+
+Amongst others, OctoPerf will:
+- Automate extractor creation, once you defined the rules.
+- Start machines and split the datasets in a unique fashion between load generators
+- Aggregate results in real time and provide average values and percentiles.
 
 Let us scratch the surface of OctoPerf tool with these few good resources that I have compiled.This will help you to get started.
 
