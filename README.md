@@ -51,7 +51,7 @@ The great feature about OctoPerf is that you have optons to create a script seve
 ### How to use Octoperf?
 You can watch this video series to learn how to use OctoPerf.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B-x7IeWEYJs?list=PLpSi3AVZHI5pgRXwbOrrAzUyfpoSw_Tv2" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/playlist?list=PLpSi3AVZHI5pgRXwbOrrAzUyfpoSw_Tv2
 
 Let us scratch the surface of OctoPerf tool with these few good resources that I have compiled.This will help you to get started.
 
