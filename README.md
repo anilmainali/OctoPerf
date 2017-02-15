@@ -2,7 +2,7 @@
 
 # Welcome to my OctoPerf Repo.
 
-The main purpose of creating this Repo is to jot down few notes for my everyday personal learning about OctoPerf too.At the same time share the resouces to all the people who is just getting started with OctoPerf. I hope the resources and my learning notes will help everyone who is just getting started with OctoPerf!
+The main purpose of creating this Repo is to jot down few notes for my everyday personal learning about OctoPerf tool.At the same time share the resouces to all the people who is just getting started with OctoPerf. I hope the resources and my learning notes will help everyone who is just getting started with OctoPerf!
 
 To get sarted,
 
