@@ -48,6 +48,11 @@ The great feature about OctoPerf is that you have optons to create a script seve
 
 ### TIP: OctoPerf strongly recommends to record your web application using Fiddler.
 
+### How to use Octoperf?
+You can watch this video series to learn how to use OctoPerf.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B-x7IeWEYJs?list=PLpSi3AVZHI5pgRXwbOrrAzUyfpoSw_Tv2" frameborder="0" allowfullscreen></iframe>
+
 Let us scratch the surface of OctoPerf tool with these few good resources that I have compiled.This will help you to get started.
 
 # Resources
