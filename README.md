@@ -20,10 +20,16 @@ Easily Design, Monitor, Execute and Analyze performance tests through your Web B
 4. Monitor your servers.
 5. Analyze bench mark reports to find performance bottlenecks.
 
-### History of OctoPerf
-TODO:
+### How OctoPerf works?
 
-### How it works?
+OctoPerf is a load testing software vendor aimed toward providing a nice UI on top of JMeter.
+It is possible to create scripts directly in OctoPerf without using JMeter at all, but you can also export your work and go back to JMeter anytime.
+OctoPerf provides worldwide coverage for load generation and configurable reports
+
+### History of OctoPerf
+OctoPerf was created in summer of 2015. It was originally called jellly.io
+
+For meore Information about OctoPerf History and where it is heading now, Please read the Blog <a target="_blank" href="https://octoperf.com/blog/2017/01/31/highlights-of-2016/"> AN AMAZING YEAR </a> by the co-founder Guillaume Betaillouloux. 
 
 ### Why use OctoPerf load testing tool?
 TODO:
