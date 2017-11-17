@@ -22,6 +22,7 @@ For <a target="_blank" href="https://octoperf.com/pricing/"> Plans and Pricing <
 Check out the <a target="_blank" href="https://octoperf.com/blog/"> OctoPerf Load Testing Blog </a> 
 
 ### Some Interesting Blogs Topics To Read
+<a target="_blank" href="https://octoperf.com/blog/2017/03/15/think-time/">  LOAD TESTING WITHOUT THINK TIMES? </a>
 
 
 ### Follow OctoPerf on Twitter 
