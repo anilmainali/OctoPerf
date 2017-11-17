@@ -24,6 +24,7 @@ Check out the <a target="_blank" href="https://octoperf.com/blog/"> OctoPerf Loa
 ### Some Interesting Blogs Topics To Read
 <a target="_blank" href="https://octoperf.com/blog/2017/03/15/think-time/">  LOAD TESTING WITHOUT THINK TIMES? </a>
 
+<a target="_blank" href="https://octoperf.com/blog/2015/11/19/what-makes-a-realistic-load-test/"> WHAT MAKES A REALISTIC LOAD TEST</a>
 
 ### Follow OctoPerf on Twitter 
 
