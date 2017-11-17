@@ -28,7 +28,7 @@ Check out the <a target="_blank" href="https://octoperf.com/blog/"> OctoPerf Loa
 
 <a target="_blank" href="https://octoperf.com/blog/2015/10/29/performance-testing-and-objectives/"> PERFORMANCE TESTING AND OBJECTIVES</a>
 
-
+<a target="_blank" href="https://octoperf.com/blog/2015/11/05/preparations-and-prerequisites/"> PREPARATIONS AND PREREQUISITES</a>
 
 ### Follow OctoPerf on Twitter 
 
