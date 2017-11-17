@@ -49,4 +49,5 @@ Watch these You Tube videos and learn more about OctoPerf
  
  <a target="_blank" href="https://www.youtube.com/watch?v=Qfex3-d2eFQ&list=PLpSi3AVZHI5ojqRqJFPq7oOrJfVmGoJJC"> Guided tour : Project View</a>
 
+### LOAD TESTING TRAININGS By OctoPerf
 
