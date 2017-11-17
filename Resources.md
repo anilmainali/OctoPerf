@@ -26,6 +26,10 @@ Check out the <a target="_blank" href="https://octoperf.com/blog/"> OctoPerf Loa
 
 <a target="_blank" href="https://octoperf.com/blog/2015/11/19/what-makes-a-realistic-load-test/"> WHAT MAKES A REALISTIC LOAD TEST</a>
 
+<a target="_blank" href="https://octoperf.com/blog/2015/10/29/performance-testing-and-objectives/"> PERFORMANCE TESTING AND OBJECTIVES</a>
+
+
+
 ### Follow OctoPerf on Twitter 
 
 You can follow OctoPerf on <a target="_blank" href="https://twitter.com/octoperf"> Twitter </a>
