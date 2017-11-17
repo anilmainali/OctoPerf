@@ -33,7 +33,7 @@ Check out the <a target="_blank" href="https://octoperf.com/blog/"> OctoPerf Loa
 <a target="_blank" href="https://octoperf.com/blog/2015/10/08/which-environment-to-use/
 "> WHICH ENVIRONMENT TO USE?</a>
 
-
+<a target="_blank" href="https://octoperf.com/blog/2015/10/22/what-makes-a-good-performance-tester/"> WHAT MAKES A GOOD PERFORMANCE TESTER</a>
 
 ### Follow OctoPerf on Twitter 
 
