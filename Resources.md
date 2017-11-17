@@ -51,3 +51,5 @@ Watch these You Tube videos and learn more about OctoPerf
 
 ### LOAD TESTING TRAININGS By OctoPerf
 
+<a target="_blank" href="https://octoperf.com/trainings/"> LOAD TESTING TRAININGS</a>
+
