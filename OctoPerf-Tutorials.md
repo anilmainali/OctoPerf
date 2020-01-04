@@ -3,6 +3,11 @@
 
 [Demo](https://octoperf.com/request-demo/)
 
+# Advice and answers from the Octoperf Team
+
+[Advice and answers from the Octoperf Team](https://octoperf.slaask.help/hc/)
+
+
 # All JMeter trainings
 
 [All JMeter trainings](https://octoperf.com/categories/jmeter/)
