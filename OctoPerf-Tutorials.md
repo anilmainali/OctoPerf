@@ -7,6 +7,10 @@
 
 [Advice and answers from the Octoperf Team](https://octoperf.slaask.help/hc/)
 
+# Analysis Tips
+
+[Analysis Tips](https://doc.octoperf.com/analysis/tips/)
+
 
 # All JMeter trainings
 
