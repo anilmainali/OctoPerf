@@ -7,6 +7,14 @@
 
 [Advice and answers from the Octoperf Team](https://octoperf.slaask.help/hc/)
 
+# Correlation rules
+[Correlation rules](https://octoperf.slaask.help/hc/design/correlation-rules?searched=true)
+
+[Correlation Rule](https://doc.octoperf.com/design/edit-virtual-user/configuration/auto-correlation/)
+
+[DYNAMIC PARAMETERS AND AUTO CORRELATION](https://octoperf.com/tutorials/dynamic-parameters-and-auto-correlation/)
+
+
 # Runtime
 
 [Runtime](https://octoperf.slaask.help/hc/runtime)
