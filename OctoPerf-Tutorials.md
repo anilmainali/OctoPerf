@@ -7,6 +7,11 @@
 
 [Advice and answers from the Octoperf Team](https://octoperf.slaask.help/hc/)
 
+# Runtime
+
+[Runtime](https://octoperf.slaask.help/hc/runtime)
+
+
 # Analysis Tips
 
 [Analysis Tips](https://doc.octoperf.com/analysis/tips/)
