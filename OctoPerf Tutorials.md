@@ -4,12 +4,8 @@
 
 [All JMeter trainings](https://octoperf.com/categories/jmeter/)
 
-1. LOAD TESTING DEFINITIONS - METHODOLOGY INTRODUCTION
-
-[LOAD TESTING DEFINITIONS - METHODOLOGY INTRODUCTION](https://octoperf.com/trainings/load-testing-methodology-introduction-how-to/)
-2. LOAD TEST EARLY - METHODOLOGY INTRODUCTION
-
-[LOAD TEST EARLY - METHODOLOGY INTRODUCTION](https://octoperf.com/trainings/load-testing-methodology-introduction-test-early/)
+1. [LOAD TESTING DEFINITIONS - METHODOLOGY INTRODUCTION](https://octoperf.com/trainings/load-testing-methodology-introduction-how-to/)
+2. [LOAD TEST EARLY - METHODOLOGY INTRODUCTION](https://octoperf.com/trainings/load-testing-methodology-introduction-test-early/)
 
 3. LOAD TESTING PROCESS - METHODOLOGY INTRODUCTION
 [LOAD TESTING PROCESS - METHODOLOGY INTRODUCTION](https://octoperf.com/trainings/load-testing-methodology-introduction-process/)
