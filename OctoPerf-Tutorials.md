@@ -15,6 +15,9 @@
 [DYNAMIC PARAMETERS AND AUTO CORRELATION](https://octoperf.com/tutorials/dynamic-parameters-and-auto-correlation/)
 
 
+# Launching a test with OctoPerf
+[Launching a test with OctoPerf](https://www.youtube.com/watch?v=vpdiCjrSJFE)
+
 # Runtime
 
 [Runtime](https://octoperf.slaask.help/hc/runtime)
