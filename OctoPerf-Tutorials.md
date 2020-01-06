@@ -3,6 +3,10 @@
 
 [Demo](https://octoperf.com/request-demo/)
 
+# Tutorials
+
+[Tutorials](https://octoperf.com/tutorials/)
+
 # Advice and answers from the Octoperf Team
 
 [Advice and answers from the Octoperf Team](https://octoperf.slaask.help/hc/)
