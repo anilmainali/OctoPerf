@@ -3,9 +3,22 @@
 
 [Demo](https://octoperf.com/request-demo/)
 
-# Tutorials
+# Tutorials Page
 
 [Tutorials](https://octoperf.com/tutorials/)
+
+
+1. [RECORDING A VIRTUAL USER WITH FIREFOX](https://octoperf.com/tutorials/recording-http-traffic-using-firefox/)
+2. [RECORDING A VIRTUAL USER WITH FIDDLER](https://octoperf.com/tutorials/recording-http-traffic-using-fiddler/)
+3. [CREATING A VIRTUAL USER AND USING A DATASET](https://octoperf.com/tutorials/creating-a-vu-and-using-a-dataset/)
+4. [DYNAMIC PARAMETERS AND AUTO CORRELATION](https://octoperf.com/tutorials/dynamic-parameters-and-auto-correlation/)
+5. [ADVANCED DESIGN USING CONDITIONS](https://octoperf.com/tutorials/advanced-design-conditions/)
+6. [ADVANCED DESIGN USING A LOOP](https://octoperf.com/tutorials/advanced-design-loop/)
+7. [CONFIGURING A MONITORING CONNECTION](https://octoperf.com/tutorials/monitoring-connection-configuration/)
+8. [LAUNCHING A TEST WITH OCTOPERF](https://octoperf.com/tutorials/test-launch-and-live-report/)
+9. [THE OCTOPERF REPORTING ENGINE](https://octoperf.com/tutorials/the-octoperf-reporting-engine/)
+10. [THE OCTOPERF MAVEN PLUGIN](https://octoperf.com/tutorials/octoperf-maven-plugin/)
+
 
 # Advice and answers from the Octoperf Team
 
