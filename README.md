@@ -75,6 +75,18 @@ Create a <a target="_blank" href="https://app.octoperf.com/#/access/signup"> Oct
 
 For <a target="_blank" href="https://octoperf.com/pricing/"> Plans and Pricing </a> You have a options to create your own licence or choose among the existing ones. 
 
+### Support
+
+Live support using the chat Or contact us at support@octoperf.com
+
+### Documentation
+
+[Documentation](https://doc.octoperf.com/)
+
+### KnowledgeBase
+
+https://octoperf.slaask.help/
+
 ### OctoPerf Load Testing Blog
 
 Check out the <a target="_blank" href="https://octoperf.com/blog/"> OctoPerf Load Testing Blog </a> 
