@@ -2,6 +2,8 @@
 
 # Welcome to my OctoPerf Repo.
 
+![octoperf](https://user-images.githubusercontent.com/10678180/71866565-33476500-30cc-11ea-87ce-9fe82a2c50df.png)
+
 The main purpose of creating this Repo is to jot down few notes for my everyday personal learning about OctoPerf tool.At the same time share the resouces to all the people who is just getting started with OctoPerf. I hope the resources and my learning notes will help everyone who is just getting started with OctoPerf!
 
 To get sarted,
