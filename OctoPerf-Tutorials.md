@@ -66,7 +66,8 @@
 10. [VARIABLES - METHODOLOGY DESIGN](https://octoperf.com/trainings/variables-methodology-design/)
 11. [ADVANCED DESIGN - METHODOLOGY DESIGN](https://octoperf.com/trainings/advanced-design-methodology-design/)
 
-
+# Fiddler HAR record
+[Fiddler HAR record](https://doc.octoperf.com/design/create-virtual-user/record-fiddler-har/)
 
 
 
