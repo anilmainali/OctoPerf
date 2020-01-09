@@ -3,6 +3,11 @@
 
 [Demo](https://octoperf.com/request-demo/)
 
+# JMETER TUTORIAL FOR BEGINNERS
+
+[JMETER TUTORIAL FOR BEGINNERS](https://octoperf.com/blog/2018/03/29/jmeter-tutorial/)
+
+
 # Tutorials Page
 
 [Tutorials](https://octoperf.com/tutorials/)
