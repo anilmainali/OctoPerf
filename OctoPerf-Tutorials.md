@@ -69,5 +69,8 @@
 # Fiddler HAR record
 [Fiddler HAR record](https://doc.octoperf.com/design/create-virtual-user/record-fiddler-har/)
 
+# HOW TO RECORD A SCENARIO WITH JMETER
+[HOW TO RECORD A SCENARIO WITH JMETER](https://octoperf.com/blog/2018/04/26/jmeter-recording/)
+
 
 
