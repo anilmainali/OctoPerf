@@ -118,6 +118,13 @@ You can access their <a target="_blank" href="https://github.com/OctoPerf"> GitH
 
 Watch these You Tube videos and learn more about OctoPerf
 
+### TRAINING AND CERTIFICATION
+
+https://octoperf.com/pricing/#training
+
+
+
+
  <a target="_blank" href="https://www.youtube.com/watch?v=fz9E_euuxQU&list=PLpSi3AVZHI5rJHGiVh2W90k28KqERDNNV"> OctoPerf Load Testing Tool Overview </a>
 
 
