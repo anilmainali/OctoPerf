@@ -136,7 +136,9 @@ https://octoperf.com/pricing/#training
 
 <a target="_blank" href="http://www.perfbytes.com/octoperf-deep-dive">  Octoperf Deep Dive </a>
 
+ # Analysis/tips
  
+ [Analysis/tips](https://doc.octoperf.com/analysis/tips/)
 
  
 
