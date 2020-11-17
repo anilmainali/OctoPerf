@@ -59,6 +59,10 @@
 
 [LOAD TESTING TRAININGS](https://octoperf.com/trainings/)
 
+[LOAD TESTING BEGINNERS GUIDE](https://octoperf.com/img/trainings/whitepaper/White_Paper_Introduction_To_Performance_Testing.pdf)
+[]()
+[]()
+
 1. [LOAD TESTING DEFINITIONS - METHODOLOGY INTRODUCTION](https://octoperf.com/trainings/load-testing-methodology-introduction-how-to/)
 2. [LOAD TEST EARLY - METHODOLOGY INTRODUCTION](https://octoperf.com/trainings/load-testing-methodology-introduction-test-early/)
 3. [LOAD TESTING PROCESS - METHODOLOGY INTRODUCTION](https://octoperf.com/trainings/load-testing-methodology-introduction-process/)
