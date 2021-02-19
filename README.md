@@ -140,8 +140,8 @@ https://octoperf.com/pricing/#training
  
  [Analysis/tips](https://doc.octoperf.com/analysis/tips/)
 
- 
+ [Performance Bench Report](https://doc.octoperf.com/analysis/edit-bench-report/)
 
-
+ [Optimize JMeter for large scale tests](https://octoperf.com/blog/2017/10/12/optimize-jmeter-for-large-scale-tests/)
 
 
