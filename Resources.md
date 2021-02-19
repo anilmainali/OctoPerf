@@ -67,3 +67,23 @@ Watch these You Tube videos and learn more about OctoPerf
 
 <a target="_blank" href="https://octoperf.com/trainings/"> LOAD TESTING TRAININGS</a>
 
+
+# NEW
+
+[Performance Bench Report](https://doc.octoperf.com/analysis/edit-bench-report/)
+
+[Optimize JMeter for large scale tests](https://octoperf.com/blog/2017/10/12/optimize-jmeter-for-large-scale-tests/)
+[Documentation - OctoPerf](https://doc.octoperf.com/)
+[Advice and answers from the Octoperf Team](https://octoperf.slaask.help/hc/)
+[About](https://octoperf.com/about/)
+[Pricing](https://octoperf.com/pricing/)
+[Contact](https://octoperf.com/contact/)
+[Blog](https://octoperf.com/blog/)
+[Training and Certification](https://octoperf.com/tutorials/)
+[Troubleshoot your tests](https://octoperf.com/blog/2021/01/21/troubleshoot-your-tests/)
+[Analyze your load tests](https://octoperf.com/blog/2020/07/09/analyze-your-load-tests/)
+[Importing Postman requests to Octoperf](https://octoperf.com/blog/2020/07/01/postman/)
+[Sharing variables between Virtual Users](https://octoperf.com/blog/2020/05/27/variables-mq/)
+[Install OctoPerf in your company](https://octoperf.com/blog/2020/03/19/octoperf-in-your-company/)
+[Test mobile native applications with OctoPerf](https://octoperf.com/blog/2016/03/22/octoperf-mobile-capabilities/)
+
